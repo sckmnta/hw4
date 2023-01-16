@@ -1,7 +1,12 @@
 package mnta.sck;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    //public static void main(String[...] args) warar massive
+    {
         // примитивные переменные
         byte varByte = 127; //-128 ....... 127
         short varShort = 32767; // -32788 ....... 32767
@@ -54,6 +59,13 @@ public class Main {
     //for (int i = array0.length - 1; i >= 0; i--) {
 
     }
+    //List<String> stringList = new ArrayList<>(); //как массив но не массив, пересмотреть
+      //stringList.add
+             // stringlist.addAll
+             // stringlist.get
+             // stringlist.sort
+             // stringList.remove
+
 
         }
 
