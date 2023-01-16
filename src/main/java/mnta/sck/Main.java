@@ -34,12 +34,12 @@ public class Main {
 
         /// массивы. Урок2
         // int [] array = new int [3];
-        int [] array0 = new int [] { 100, 150, -1}; /// - индексы 0, 1, 2
-        int [] array1 = new int [] { 100, 150, -1};
-        int[][] array2 = {array0, array1}; ///массив массива
+        //int [] array0 = new int [] { 100, 150, -1}; /// - индексы 0, 1, 2
+        //int [] array1 = new int [] { 100, 150, -1};
+       // int[][] array2 = {array0, array1}; ///массив массива
 
-        for (int i = 0; i < array0.length; i++) {  /// почитать потом про i++
-        System.out.println(array0[i]);
+        //for (int i = 0; i < array0.length; i++) {  /// почитать потом про i++
+        //System.out.println(array0[i]);
 
         //int index = 0;
         //while (index < array0.length) {
@@ -51,14 +51,14 @@ public class Main {
             //цикл while
             }
         /// перебор в обр сторону
-        for (int i = array0.length - 1; i >=; i--) {
+        //for (int i = array0.length - 1; i >=; i--) {
 
-        }
-        }
+       // }
+        //}
         /// перебор в обр сторону
     //for (int i = array0.length - 1; i >= 0; i--) {
 
-    }
+    //}
     //List<String> stringList = new ArrayList<>(); //как массив но не массив, пересмотреть
       //stringList.add
              // stringlist.addAll
