@@ -29,7 +29,17 @@ public class Main {
         System.out.print(" USD, ");
         System.out.print("but your special price for this goods is ");
         System.out.print(varInt - varDouble);
-        System.out.print(" USD");
+        System.out.print(" USD\n");
+
+        System.out.println("#######");
+
+
+        int intTen = 10;
+        float floatTwoHalf = 2.5F;
+
+
+        System.out.print(intTen / floatTwoHalf);
+        System.out.print(intTen % floatTwoHalf);
 
 
         /// массивы. Урок2
